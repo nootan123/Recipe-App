@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "872907923131",
+    "firebase_url": "https://login-e245e.firebaseio.com",
+    "project_id": "login-e245e",
+    "storage_bucket": "login-e245e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872907923131:android:ad98b6d7ae631faa09d39e",
+        "android_client_info": {
+          "package_name": "com.example.Recipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872907923131-v02d0h5rvucl92l6ptjl174vhg8jmtsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0VLBi1PNABLIWDoKxbvg1EEruirjGrUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872907923131-v02d0h5rvucl92l6ptjl174vhg8jmtsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
